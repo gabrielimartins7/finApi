@@ -1,4 +1,4 @@
-## FinApi - Financeia :money_mouth_face:
+## FinApi - Financeira :money_mouth_face:
 
 ----
 
